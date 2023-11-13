@@ -2,6 +2,28 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [0.34.0](https://github.com/pascalwilbrink/open-scd/compare/open-scd-v0.33.1...open-scd@v0.34.0) (2023-11-13)
+
+
+### ✨ Features
+
+* add ISD file extension ([#1351](https://github.com/pascalwilbrink/open-scd/issues/1351)) ([1c2ef60](https://github.com/pascalwilbrink/open-scd/commit/1c2ef606a64f1af75af1c88dcdd3a5659b35d2aa))
+* **editors/ied:** Improve IED editor UI for IED and LN selection ([#1288](https://github.com/pascalwilbrink/open-scd/issues/1288)) ([e5bc0b8](https://github.com/pascalwilbrink/open-scd/commit/e5bc0b8509a40950188e2f4bcf52569932309c69))
+* Provide ability to see Services section XML ([#1346](https://github.com/pascalwilbrink/open-scd/issues/1346)) ([83d1d61](https://github.com/pascalwilbrink/open-scd/commit/83d1d611eeeb79082c7f0eb7934ee045b25fe0c2))
+
+
+### 🐞 Bug Fixes
+
+* allow address update for new entries ([#1331](https://github.com/pascalwilbrink/open-scd/issues/1331)) ([d1f4ff9](https://github.com/pascalwilbrink/open-scd/commit/d1f4ff90e211bc8ba8c2e9fc4e900fb093acfad5))
+* supervision updates after ied rename ([#1338](https://github.com/pascalwilbrink/open-scd/issues/1338)) ([2066e4c](https://github.com/pascalwilbrink/open-scd/commit/2066e4c71d8ab888cc04f1628c30b39582033fcb))
+
+
+### 📦 Miscellaneous Chores
+
+* Checking Release please ([32bc3f8](https://github.com/pascalwilbrink/open-scd/commit/32bc3f831a8e3527d3f047923bfff393edabca7f))
+* **main:** release open-scd 0.33.1 ([e298a89](https://github.com/pascalwilbrink/open-scd/commit/e298a899003003da8f481b61235a435b4e4278fd))
+* Moved mergeSubstation function outside the UpdateSubstation plugin, so it can be reused ([#1337](https://github.com/pascalwilbrink/open-scd/issues/1337)) ([00e23b0](https://github.com/pascalwilbrink/open-scd/commit/00e23b010db59671570be8d6a041dc27c00a23d3))
+
 ## [0.33.1](https://github.com/pascalwilbrink/open-scd/compare/open-scd-v0.33.0...open-scd-v0.33.1) (2023-11-13)
 
 
